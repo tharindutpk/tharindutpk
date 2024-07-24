@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Tharindu Pramuditha
+
+- 🧰 I use ```Go```, ```Rust```, ```Python``` and ```Svelte``` with love
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me: I have an universal handle @tharindutpk
+- ⚡ Fun fact: I love climbing and photography
 
 <!--
 **tharindutpk/tharindutpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
