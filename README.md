@@ -1,9 +1,13 @@
-## Hi there 👋, I'm Tharindu Pramuditha
+## Hi there, I'm [Tharindu](https://twitter.com/tharindutpk).
 
-- 🧰 I use ```Go```, ```Rust```, ```Python``` and ```Svelte``` with love
+- 🔭 I'm a programmer and investor who loves building things with ```Go```, ```Rust```, ```Python```, and ```Svelte```
 - 🌱 I’m currently learning Swift
-- 📫 How to reach me: I have an universal handle @tharindutpk
-- ⚡ Fun fact: I love climbing and photography
+- 🙋‍♂️ Follow me on [Twitter (@tharindutpk)](https://twitter.com/tharindutpk) or [Instagram (@tharindutpk)](https://instagram.com/tharindutpk)
+- ⚡ Fun fact: I love climbing mountains and photography
+
+I have a travel website and an Instagram page dedicated to my adventures:
+
+- [escapingceylon.com](https://www.escapingceylon.com) or [Instagram (@escapingceylon)](https://instagram.com/escapingceylon)
 
 <!--
 **tharindutpk/tharindutpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
