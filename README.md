@@ -1,25 +1,10 @@
-## Hi there, I'm [Tharindu](https://twitter.com/tharindutpk).
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/tharindutpk/tharindutpk/assets/github-snake-dark.svg" />
+</p>
 
-- 🔭 I'm a programmer and investor who loves building things with ```Go```, ```Rust```, ```Python```, and ```Svelte```
+## Howdy, I'm Tharindu/ [@tharindutpk](https://twitter.com/tharindutpk)
+
+- 🔭 I'm a programmer and quantitative investor who loves building things with `Go`, `Rust`, `Python`, and `Svelte`
 - 🌱 I’m currently learning Swift
 - 🙋‍♂️ Follow me on [Twitter (@tharindutpk)](https://twitter.com/tharindutpk) or [Instagram (@tharindutpk)](https://instagram.com/tharindutpk)
-- ⚡ Fun fact: I love climbing mountains and photography
-
-I have a travel website and an Instagram page dedicated to my adventures:
-
-- [escapingceylon.com](https://www.escapingceylon.com) or [Instagram (@escapingceylon)](https://instagram.com/escapingceylon)
-
-<!--
-**tharindutpk/tharindutpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I'm fast. I run 10 km in 35 minutes, type at a speed of 175 WPM, and watch videos at 1.5x. There's nothing I do slowly
