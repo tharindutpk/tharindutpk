@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/tharindutpk/tharindutpk/assets/github-snake-dark.svg" />
+  <img width="600" src="https://raw.githubusercontent.com/tharindutpk/tharindutpk/refs/heads/main/assets/github-snake-dark.svg" />
 </p>
 
 ## Howdy, I'm Tharindu/ [@tharindutpk](https://twitter.com/tharindutpk)
